@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/171925d184ddc.jpg" alt="DQ-The-File-Donor Logo">
+  <img src="https://telegra.ph/file/171925d184ddc.jpg" alt="clickbait Logo">
 </p>
 <h1 align="center">
   <b>Rocky setten</b>
