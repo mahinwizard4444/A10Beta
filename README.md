@@ -5,6 +5,6 @@
   <b>DQ-The-File-Donor Bot</b>
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Da+Da+Da-Nirthada-ninte-Show!;Okey+da+Mone+ᠰ+You+continue+njan+Mouth+Close akam!;Indexes+Files+above+2GB;A+Bot+with+double+button!;Start+message+with+pic!;And+more+features!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Da+Da+Da-Nirthada-ninte-Show!;Okey+da+Mone+ᠰ+You+continue+njan+Mouth+Closeakam!;Indexes+Files+above+2GB;A+Bot+with+double+button!;Start+message+with+pic!;And+more+features!)
 </p>
 
